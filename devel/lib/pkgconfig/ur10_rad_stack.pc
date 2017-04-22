@@ -1,0 +1,8 @@
+prefix=/home/carson/ur10_ws/devel
+
+Name: ur10_rad_stack
+Description: Description of ur10_rad_stack
+Version: 0.0.0
+Cflags: -I/home/carson/ur10_ws/src/ur10_rad_stack/include
+Libs: -L/home/carson/ur10_ws/devel/lib 
+Requires: actionlib move_base_msgs moveit_msgs std_msgs moveit_core moveit_ros_planning_interface

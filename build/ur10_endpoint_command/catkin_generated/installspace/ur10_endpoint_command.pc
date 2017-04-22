@@ -1,0 +1,8 @@
+prefix=/home/carson/ur10_ws/install
+
+Name: ur10_endpoint_command
+Description: Description of ur10_endpoint_command
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/carson/ur10_ws/install/lib 
+Requires: 

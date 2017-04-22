@@ -1,0 +1,2 @@
+ur10_endpoint_command:ur10_rad_stack:ur_modern_driver
+-DCATKIN_DEVEL_PREFIX=/home/carson/ur10_ws/devel -DCMAKE_INSTALL_PREFIX=/home/carson/ur10_ws/install -G Unix Makefiles
